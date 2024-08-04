@@ -1,7 +1,7 @@
 import java.util.*;
 public class Postivezeronegativcount {
     public static void number( int a){
-        int count =0;
+        int count = 0;
         for(int i=0;i<a;i++){
             if(i>0 && i<0){
                 count++;
