@@ -16,6 +16,6 @@ public class Divisornumber {
         int b=Sc.nextInt();
         commandivisor(a, b);
         Sc.close();
-    }
+    }.
     
 }
