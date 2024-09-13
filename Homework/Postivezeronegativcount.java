@@ -1,4 +1,4 @@
-import java.util.*;
+git import java.util.Scanner;
 public class Postivezeronegativcount {
     public static void number( int a){
         int count = 0;
